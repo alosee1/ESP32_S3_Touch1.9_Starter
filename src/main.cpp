@@ -867,7 +867,7 @@ void measureBeam() {
 	//Timer_Loop();
 	float spec = (int)mb.Hreg(HREG_SPEC);
 	//Check the beamwidth to the specficiaiton using
-	if ((top >= (spec - 2)) && (bot >= (spec - 2)) && (top <= (spec + 2)) && (bot <= (spec + 2))) {
+	if ((top >= (spec - 2.0)) && (bot >= (spec - 2.0)) && (top <= (spec + 2.0)) && (bot <= (spec + 2.0))) {
 		lv_label_set_text(ui_LabelPF, "PASS");
     colorWipe(strip.Color(0, 255, 0), 1);  // GREEN
     
