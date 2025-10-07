@@ -1,4 +1,16 @@
 
+def measureBeamCmd(event_struct):
+    return
+
+
+def beamSelectChange(event_struct):
+    return
+
+
+def toggleChanged(event_struct):
+    return
+
+
 def homeXaxis(event_struct):
     return
 
@@ -32,9 +44,5 @@ def saveBeamHome(event_struct):
 
 
 def gotoBeamHome(event_struct):
-    return
-
-
-def beamSelectChange(event_struct):
     return
 
