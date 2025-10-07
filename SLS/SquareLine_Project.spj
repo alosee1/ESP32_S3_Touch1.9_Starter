@@ -636,8 +636,8 @@
                 "flags": 17,
                 "strtype": "OBJECT/Position",
                 "intarray": [
-                  -2,
-                  -139
+                  -3,
+                  -73
                 ],
                 "InheritedType": 7
               },
@@ -908,10 +908,10 @@
     "theme_dark": true,
     "theme_color1": 5,
     "theme_color2": 0,
-    "uiExportFolderPath": "C:\\Users\\Engineering\\Documents\\GitHub\\Starter 1_9 LCD ESP32S3\\ESP32_S3_Touch1.9_Starter\\lib\\UI",
-    "projectExportFolderPath": "C:\\Users\\Engineering\\Documents\\GitHub\\Starter 1_9 LCD ESP32S3\\ESP32_S3_Touch1.9_Starter\\SLS",
+    "uiExportFolderPath": "C:\\Users\\alosee\\Documents\\PlatformIO\\Projects\\starter esp32S3_19_LCD\\ESP32_S3_Touch1.9_Starter\\lib\\UI",
+    "projectExportFolderPath": "C:\\Users\\alosee\\Documents\\PlatformIO\\Projects\\starter esp32S3_19_LCD\\ESP32_S3_Touch1.9_Starter\\SLS",
     "custom_variable_prefix": "uic",
-    "backup_cnt": 53,
+    "backup_cnt": 54,
     "autosave_cnt": 0,
     "group_color_cnt": 0,
     "lvgl_version": "8.3.11",
