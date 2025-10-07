@@ -48,8 +48,8 @@ void ui_Screen2_screen_init(void)
     ui_Label10 = lv_label_create(ui_Screen2);
     lv_obj_set_width(ui_Label10, LV_SIZE_CONTENT);   /// 1
     lv_obj_set_height(ui_Label10, LV_SIZE_CONTENT);    /// 1
-    lv_obj_set_x(ui_Label10, -41);
-    lv_obj_set_y(ui_Label10, 120);
+    lv_obj_set_x(ui_Label10, -2);
+    lv_obj_set_y(ui_Label10, 31);
     lv_obj_set_align(ui_Label10, LV_ALIGN_CENTER);
     lv_label_set_text(ui_Label10, "LABEL:");
 
