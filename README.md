@@ -4,7 +4,7 @@ LVGL is used with Squareline studios to create graphics on the display.
 
 Board: https://www.waveshare.com/esp32-s3-lcd-1.9.htm
 
-SCH: https://files.waveshare.com/wiki/ESP32-S3-LCD-1.9/ESP32-S3-LCD-1.9-schematic.pdf
+Schematic: https://files.waveshare.com/wiki/ESP32-S3-LCD-1.9/ESP32-S3-LCD-1.9-schematic.pdf
 
 <img width="197" height="386" alt="image" src="https://github.com/user-attachments/assets/3e145acb-37d5-4965-a111-66d17473a854" />
 
